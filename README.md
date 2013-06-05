@@ -8,7 +8,7 @@ _About
 _Research  
 _Teaching  
 _People  
-_Partners 
+_Partners  
 _News 
 
 
