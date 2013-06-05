@@ -6,9 +6,9 @@ Navigation:
 
 _About  
 _Research  
-_Teaching
-_People
-_Partners
-_News
+_Teaching  
+_People  
+_Partners 
+_News 
 
 
