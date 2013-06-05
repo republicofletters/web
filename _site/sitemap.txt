@@ -1,0 +1,9 @@
+
+http://republicofletters.stanford.edu/archive.html
+http://republicofletters.stanford.edu/atom.xml
+http://republicofletters.stanford.edu/categories.html
+http://republicofletters.stanford.edu/index.html
+http://republicofletters.stanford.edu/pages.html
+http://republicofletters.stanford.edu/rss.xml
+http://republicofletters.stanford.edu/sitemap.txt
+http://republicofletters.stanford.edu/tags.html

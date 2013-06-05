@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Mapping the Republic of Letters</title>
+ <link href="http://republicofletters.stanford.edu/" rel="self"/>
+ <link href="http://republicofletters.stanford.edu"/>
+ <updated>2013-06-05T14:22:53-07:00</updated>
+ <id>http://republicofletters.stanford.edu</id>
+ <author>
+   <name>Nicole Coleman</name>
+   <email>cncoleman@stanford.edu</email>
+ </author>
+
+ 
+ 
+</feed>
