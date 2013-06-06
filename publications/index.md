@@ -22,46 +22,46 @@ Gifts and Bequests: The Culture of Mathematical Instruments in Late Seventeenth-
 ###Presentations 
 
 Social Networking in the Enlightenment  
-Dan Edelstein  
+[Dan Edelstein](/people/#edelstein)    
 *Modern Languages Association, Los Angeles, CA*  
 
 Mapping the Republic of Letters  
-Dan Edelstein  
+[Dan Edelstein](/people/#edelstein)    
 *Society for French Historical Studies, Plenary session, Arizona State University*  
 
 Mapping the Republic of Letters  
-Dan Edelstein  
+[Dan Edelstein](/people/#edelstein)    
 *Bard Graduate Center, New York, NY*  
 
 Mapping the Republic of Letters  
-Dan Edelstein  
+[Dan Edelstein](/people/#edelstein)    
 *Interdisciplinary Humanities Center, UC Santa Barbara*  
 
 Where are the Letters Concerning the English Nation? Voltaire's Correspondence  
-Dan Edelstein  
+[Dan Edelstein](/people/#edelstein)    
 *Republic of Letters Conference, Fondazione Cini, Venice*  
 
 Digging Into the Englightenment  
-Dan Edelstein    
+[Dan Edelstein](/people/#edelstein)      
 *Digging into Data Challenge Conference, Washington, DC*  
 
 Mapping the Republic of Letters  
-Dan Edelstein     
+[Dan Edelstein](/people/#edelstein)       
 *Early Modern Cosmopolitanisms series, UCLA*  
 
-Presidential Panel on "New Directions on Spatial History," Dan Edelstein      
+Presidential Panel on "New Directions on Spatial History," [Dan Edelstein](/people/#edelstein)        
 *American Historical Association, Chicago, IL*  
 
 Mapping the Republic of Letters  
-Dan Edelstein      
+[Dan Edelstein](/people/#edelstein)        
 *Center for Cultural Analysis, Rutgers University*  
 
 Social Networking in the Enlightenment  
-Dan Edelstein       
+[Dan Edelstein](/people/#edelstein)         
 *Society for French Historical Studies conference, Plenary session, Cambridge, MA*  
 
 How to Read a Million Letters  
-Dan Edelstein       
+[Dan Edelstein](/people/#edelstein)         
 *Institute for Quantitative Theory and Methods, Emory University* 
 
  
@@ -116,9 +116,10 @@ The Grand Tour in Context: New Perspectives on Early Travel
 *Venice, Italy*  
 
 Travelers to Vasi's Rome: Mapping 18th Century Mobility  
-[Sarah Murray](/people/#murray)   and Molly Taylor-Poleskey
+[Sarah Murray](/people/#murray) and [Molly Taylor-Poleskey](/people/#poleskey)  
 *Eugene, OR*  
 
  
-Integrating the Republic of Letters, Hannah Marcus and Scott Spillman  
+Integrating the Republic of Letters  
+[Hannah Marcus](/people/#marcus)   and Scott Spillman  
 *Mapping the Atlantic: Digital Humanities and Atlantic Studies, University of Michigan*  

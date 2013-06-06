@@ -20,7 +20,12 @@ John Adams, Robert Boyle, Nicolaus Copernicus, René Descartes, Denis Diderot, B
 Paula Findlen And Robert Fredona
 
 How did a "republic of letters" emerge in the Renaissance and undergo multiple transformations during the Reformation, Scientific Revolution, and Enlightenment? How did knowledge, communication, and community change between the age of Renaissance humanists such as Petrarch, Machiavelli, and Erasmus, the invention of printing, the political, religious and intellectual upheavals of the seventeenth century, and the trans-Atlantic, cosmopolitan world of salons, libraries, and enlightened philosophers such as Voltaire, Gibbon, and Franklin?
-
+<hr>
+<ul class="rslides">
+  <li><img src="https://stanford.box.com/shared/static/6zfgnm5ctl5px0ysr5i7.jpg"></li>
+  <li><img src="https://stanford.box.com/shared/static/g8hujliekw3l4io02td1.png"></li>
+  <li><img src="https://stanford.box.com/shared/static/sd7cn0xhwqx59hy0xzm9.pdf"></li>
+</ul>
 ###CLASSGEN 138 
 **Modern Journeys in Ancient Lands: Building a Spatial History of the Grand Tour**  
 Giovanna Ceserani  

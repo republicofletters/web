@@ -19,9 +19,7 @@ title: D'Alembert's Correspondence
 
 
 
-Primary Source: [http://dalembert.obspm.fr/Correspondance-formulaire.php]
-
-*Inventaire analytique de la correspondance 1741-1783*, Jean le Rond D'Alembert, édition établie par Irène Passeron avec la collaboration de Anne-Marie Chouillet et Jean-Daniel Candaux, CNRS Editions, Paris 2009.
+*[Inventaire analytique de la correspondance 1741-1783](http://dalembert.obspm.fr/Correspondance-formulaire.php)*, Jean le Rond D'Alembert, édition établie par Irène Passeron avec la collaboration de Anne-Marie Chouillet et Jean-Daniel Candaux, CNRS Editions, Paris 2009.
 
 ###About the project
 

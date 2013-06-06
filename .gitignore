@@ -1,5 +1,13 @@
 
 _config.yml
 .DS_Store
+<<<<<<< HEAD
+=======
+bbin/
+gh-pages/
+site/_site/
+coverage
+.ruby-version
+>>>>>>> master
 _site/*
 
