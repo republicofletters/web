@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Mapping the Republic of Letters
 tagline: Supporting tagline
 ---
 {% include JB/setup %}

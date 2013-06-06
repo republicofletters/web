@@ -14,6 +14,10 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <!-- Le font -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+
+
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
@@ -33,7 +37,8 @@
   </head>
 
   <body>
-    <div class="navbar">
+   
+   <!-- <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
@@ -44,20 +49,41 @@
           </ul>
         </div>
       </div>
+    </div>-->
+
+    <div class="navigation container">
+      <div class="row-fluid">
+        <div class="span3">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+        </div>
+        <div class="span9">
+          <ul class="inline">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+          </ul>
+        </div>
+      </div>
     </div>
 
-    <div class="container-narrow">
+    <div class="container">
 
-      <div class="content">
-        {{ content }}
+      <div class="row-fluid">
+        <div class="offset3">
+          {{ content }}
+        </div>
       </div>
-      <hr>
-      <footer>
+
+      <div class="row-fluid">
+        <div class="offset3">
+          <footer>
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
       </footer>
+        </div>
+      </div>
 
     </div>
 

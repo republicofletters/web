@@ -1,3 +1,22 @@
+body {
+  background-color: #f7f7f7;
+  font-family: "Lato";
+}
+
+footer,
+.navigation {
+  padding: 20px 0px;
+}
+
+a {
+  color: #888888;
+}
+
+a:hover {
+  color: #a90920;
+}
+
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
