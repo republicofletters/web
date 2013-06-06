@@ -1,20 +1,23 @@
-Grand Tour Travelers
-====================
+---
+layout: Page  
+group: casestudies  
+title:Grand Tour Travelers
+---
 
 [GT Slideshow 1]
 
-Faculty Lead: Giovanna Ceserani
-
-Research Assistants:  
+###Research Team
+[Giovanna Ceserani](/people/#ceserani) (Lead)
+ 
 Sarah Murray, 2008-present  
 Molly Taylor, 2008-2011  
 James Wood, 2010  
 
-Project Start Date: 2008
+Project Start Date: 2008  
 Source: A Dictionary of British and Irish Travellers in Italy, 1701-1800, ed. John Ingamells from the Brinsley Ford Archive (New Haven: Yale University Press, 1997)
 
-About the Project
--
+###About the Project
+
 
 Correspondences made the Republic of Letters, in that they provided avenues for the exchange of information while constituting the Republic's social networks. But how did individual travelers, within or beyond its borders, affect the working of the Republic of Letters? To address this issue we chose to focus on a case study, that of the British, and Irish, Grand Tourists who visited Italy in the eighteenth century. Our choice was determined by the existence of a tremendous resource: *A Dictionary of British and Irish Travellers in Italy, 1701-1800* [1997], which resulted from the work and archive of Sir Brinsley Ford and others at the Paul Mellon Center. We are well aware that the information provided by the Dictionary is in no way complete: we can assume that not all travelers are recorded, of course, and the completeness of the entries is somewhat variable. However, the *Dictionary* provides an unparelleled data-set for circa 6000 Grand Tourists and the opportunity to create a critical mass of data that allows us to look at some broader problems.
 
@@ -61,6 +64,16 @@ In addition to temporal and geographical space, we have investigated the social 
 
 
 2. ***The Unconnected Network***: We also took a look at Grand Tour relational space through a coarser periscope.  We experimented with a view showing all of travelers who were associated with a city as dots. Then we showed connections that existed among travelers to a single city, whether they be due to correspondence, familial, or incidental relationships.  This allows us to explore the space of the Grand Tour in a completely new way, which never would have been possible using traditional methods. [GT 8]  
+
+<hr>
+
+###Visualization Tools
+Priestley Timeline  
+ArcGIS  
+Dots 
+ 
+
+
 
 [gt slideshow 1]: https://stanford.box.com/gtss1
 [gt 1]: https://stanford.box.com/gt1
