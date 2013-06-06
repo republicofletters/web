@@ -1,7 +1,10 @@
 
 http://republicofletters.stanford.edu/archive.html
 http://republicofletters.stanford.edu/atom.xml
+http://republicofletters.stanford.edu/casestudies/grandtour/index.html
 http://republicofletters.stanford.edu/casestudies/index.html
+http://republicofletters.stanford.edu/casestudies/locke/index.html
+http://republicofletters.stanford.edu/casestudies/salons/index.html
 http://republicofletters.stanford.edu/casestudies/voltaire/index.html
 http://republicofletters.stanford.edu/categories.html
 http://republicofletters.stanford.edu/index.html
