@@ -6,7 +6,12 @@ title: D'Alembert's Correspondence
 
   
 
-**put slideshow here: images from /assets/images/dalembert/slideshow1/
+<ul class="rslides">
+  <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_01.jpg" alt=""></li>
+  <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_02.jpg" alt=""></li>
+  <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_03.jpg" alt=""></li>
+  <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_04.jpg" alt=""></li>
+</ul>
 
 ###Research Team
 [Irène Passeron](/people/#passeron) (Lead)  
