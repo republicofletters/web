@@ -1,8 +1,8 @@
 ---
 layout: page  
 group: casestudies  
-title: D'Alembert's Correspondence
----
+title: D'Alembert's Correspondence  
+--- 
 
   
 
