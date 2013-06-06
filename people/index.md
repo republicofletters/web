@@ -257,7 +257,7 @@ Ph.D candidate, Department of History, Stanford University; Project Manager (201
 
 Julia Mansfield is a PhD candidate in American History at Stanford University. Under the guidance of Professor Caroline Winterer, she studies late 18th century intellectual networks. Along with Scott Spillman, she is mapping the intellectual network of Benjamin Franklin through “Mapping the Republic of Letters” – an interdisciplinary initiative in digital humanities at Stanford. Julia spends summer months in her native city of Cambridge, MA where she teaches expository writing at Harvard University.
 
-
+</section>
 
 
 
