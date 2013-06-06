@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mapping the Republic of Letters
-tagline: Supporting tagline
+title: Mapping the Republic of Letters  
+
 ---
 {% include JB/setup %}
 

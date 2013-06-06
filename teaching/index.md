@@ -16,7 +16,14 @@ John Adams, Robert Boyle, Nicolaus Copernicus, René Descartes, Denis Diderot, B
 
 
 ###HISTORY 230E/330E  
-**Republic Of Letters:  Knowledge And Community, 1300-1800** 
+**Republic Of Letters:  Knowledge And Community, 1300-1800**   
 Paula Findlen And Robert Fredona
 
 How did a "republic of letters" emerge in the Renaissance and undergo multiple transformations during the Reformation, Scientific Revolution, and Enlightenment? How did knowledge, communication, and community change between the age of Renaissance humanists such as Petrarch, Machiavelli, and Erasmus, the invention of printing, the political, religious and intellectual upheavals of the seventeenth century, and the trans-Atlantic, cosmopolitan world of salons, libraries, and enlightened philosophers such as Voltaire, Gibbon, and Franklin?
+
+###CLASSGEN 138 
+**Modern Journeys in Ancient Lands: Building a Spatial History of the Grand Tour**  
+Giovanna Ceserani  
+Sarah Murray  
+Touring the ancient sites of Italy was an educational rite of passage for 18th-century British elites. Where did Grand Tourists travel? How did the places visited and people encountered affect them, and shape our own vision of the ancient world? Analysis of the literary, geographic, and ideological landscapes of the Grand Tour through focus on primary sources (archival and published) and modern geoanalytical tools (from Google Earth to GIS) to create dynamic visualizations reflecting current theoretical and historical approaches.
+
