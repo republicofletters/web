@@ -1,24 +1,22 @@
 ---
-layout: Page  
+layout: page  
 group: casestudies  
-title: Voltaire and the Enlightenment
+title:Voltaire and the Enlightenment
 ---
 
-#Voltaire and the Enlightenment
 
 [Voltaire Slideshow 1]
 
 ###Research Team
-<a href="people/index.html#edelstein">Dan Edelstein</a> (Lead)  
-<a href="people/index.html#comsa">Maria Comsa</a>  
-<a href="people/index.html#comsa">Melanie Conroy</a>  
-<a href="people/index.html#kassabova">Biliana Kassabova</a>    
-<a href="people/index.html#willan">Claude Willan</a>  
-<a href="people/index.html#edmunson">Chloe Edmundson</a>    
-<a href="people/index.html#nyaosi">Bugei Nyaosi</a>  
+[Dan Edelstein](/people/#edelstein) (Lead)  
+[Maria Comsa](/people/#comsa)  
+[Melanie Conroy](/people/#conroy)  
+[Biliana Kassabova](/people/#kassabova)    
+[Claude Willan](/people/#willan)  
+[Chloe Edmundson](/people/#edmundson)    
+[Bugei Nyaosi](/people/#nyaosi)  
 
-About the Project
--
+###About the Project
 
 For this study, we are exploring the correspondence metadata provided to us by the [Electronic Enlightenment Project] at Oxford University. Our primary interest is in situating Voltaire’s correspondence network within the broader Enlightenment Republic of Letters. Did these networks tend to be more cosmopolitan or national? (Preliminary research suggests the latter.) What did it take to have a truly global network? (Probably an empire.) What was the role of regional correspondence? (Quite large.) What are the “coldspots” in this Republic of Letters? (For Voltaire, surprisingly, England.)
 
@@ -62,6 +60,12 @@ To analyze the social status and position of Voltaire’s correspondents, we cat
 [Voltaire 6]  
 ####Benjamin Franklin and Voltaire  
 We have no trace of letters exchanged between Voltaire and Benjamin Franklin, but the two men had many correspondents in common.
+
+<hr>
+
+####Visualization Tools
+Ink  
+
 
 [voltaire slideshow 1]: https://stanford.box.com/voltairess1
 [electronic enlightenment project]: http://www.e-enlightenment.com/
