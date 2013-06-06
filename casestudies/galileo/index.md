@@ -1,14 +1,13 @@
 Mapping Galileo
 ===============
 
-Faculty Lead: Paula Findlen
+###Research Team  
+[Paula Findlen](/people/#findlen) (Lead)  
+[Hannah Marcus](/people/#marcus)  
+[Kyle Lee-Crossett](/people/#crossett)
 
-Graduate Researcher: Hannah Marcus (PhD candidate, History Department, Stanford University)
+###About the Project
 
-Undergraduate Researcher: Kyle Lee-Crossett (Engligh and Archeology, Stanford '13)
-
-About the Project
--
 
 This project uses the surviving correspondence of the mathematician and astronomer Galileo Galilei (1564-1642) to map his social and intellectual networks.  Thanks to a Stanford Humanities Center Undergraduate Research Assistantship in 2011-12, Kyle Lee-Crossett has been building a database of Galileo’s letters (from Antonio Favaro’s Edizione Nazionale delle Opere di Galileo Galilei) under the supervision of Paula Findlen and with the assistance of Hannah Marcus who has been working to enhance the database with additional information on individual correspondents.
 
@@ -35,7 +34,14 @@ Purple: Rome
 Blue: Other Italian  
 Pink: Outside of Italy  
 
-Mr. Lee-Crossett made a preliminary presentation of his initial findings (up to 1616) at the SHC Undergraduate Research symposium in May 2012.  We are now working with DensityDesign to visualize how Galileo’s correspondence network changed at different stages of his life as we bring the database to completion in 2012-13. Our plan is to do a full analysis of Galileo’s surviving correspondence in light of the considerable scholarship on Galileo’s life and work.  We will make the database publicly available when we feel it is at a point where we can invite others to use it and contribute to its enhancement.
+Mr. Lee-Crossett made a preliminary presentation of his initial findings (up to 1616) at the SHC Undergraduate Research symposium in May 2012.  We are now working with Humanities+Design to visualize how Galileo’s correspondence network changed at different stages of his life as we bring the database to completion in 2012-13. Our plan is to do a full analysis of Galileo’s surviving correspondence in light of the considerable scholarship on Galileo’s life and work.  We will make the database publicly available when we feel it is at a point where we can invite others to use it and contribute to its enhancement.
+
+<hr>
+
+###Visualization Tools
+Gephi  
+Tableau  
+
 
 [bar graph]: https://stanford.box.com/galileobargraph
 [pie chart]: https://stanford.box.com/piechart

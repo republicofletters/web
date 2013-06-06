@@ -1,16 +1,19 @@
-The Salons Project
-==================
+---
+layout: Page  
+group: casestudies  
+title: The Salons Project
+---
 
-##Research Team
-<a href="people.html/#conroy">Melanie Conroy</a> (lead)  
-<a href="people.html/#comsa">Maria Comsa</a>   
-<a href="people.html/#bernard">Alice Bernard</a>   
-<a href="people.html/#kale">Steven Kale</a>  
+
+###Research Team
+[Melanie Conroy](/people/#conroy) (lead)  
+[Maria Comsa](/people/#comsa)  
+[Alice Bernard](/people/#bernard)  
+[Steven Kale](/people/#kale)  
 
 <hr>
 
-About the Project
--
+###About the Project
 
 The Salons Project is mapping the intellectual and social geography of European salons from the seventeenth century to the early twentieth century. Beginning with Parisian salons in the period from 1700-1914, the project graphs the social networks of leading *salonnières*, charting the movement of notable intellectuals, writers, politicians, and socialites between salons, as well as the evolution of individual salons as loci for intellectual and literary exchange.
 
