@@ -12,7 +12,6 @@ pygments: true
 title : Mapping the Republic of Letters
 tagline: Exploring Intellectual Exchange in 17th and 18th Centuries
 author :
-  name : Nicole Coleman
   name : Humanities+Design
   email : cncoleman@stanford.edu
   github : cncoleman
@@ -27,7 +26,6 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://republicofletters.stanford.edu
 production_url : http://www.stanford.edu/group/mrofl
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
@@ -57,7 +55,6 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
   BASE_PATH : http://www.stanford.edu/group/mrofl
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
@@ -68,7 +65,6 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
   ASSET_PATH : http://www.stanford.edu/group/mrofl/assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
