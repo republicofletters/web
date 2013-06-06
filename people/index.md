@@ -4,8 +4,6 @@ title: People
 group: navigation
 ---
 
-#People
-
 
 ####Dan Edelstein 
 Associate Professor of French and, by courtesy, of History; Director of Undergraduate Studies, DLCL; Chair of Undergraduate Studies, French; Primary Investigator, Mapping the Republic of Letters.
@@ -120,12 +118,11 @@ PhD candidate, Department of History, Stanford University
 I am a graduate student studying History and the History of Science at Stanford University.  I have been working with the Republic of Letters project in multiple capacities over the past two years.  I have worked on creating datasets that describe Francesco Algarotti’s published, eighteenth-century correspondence and another that captures Benjamin Franklin’s travels.   As a Digital Humanities Research Scholar in the summer of 2011, I worked across all of the Republic of Letters projects with the goal of creating a visualization system that integrated multiple data sets.  Scott Spillman and I presented on this work at a conference at the University of Michigan in April 2012.  In the summer of 2012, I was the Undergraduate Research Lab Manager for the Republic of Letters projects.  In August 2012, I  attended the Early Modern Time + Networks workshop as a Digital Humanities Fellow and worked on the correspondence of Galileo Galilei.   I am very interested in exploring how the digital humanities can complement, clarify, and transform traditional humanistic research.  
 
 
-
+<span id="lelkova"></span>
 ####Iva Lelková  
 Charles University PhD, 2011  
 Comenius Postdoctoral Fellow, Cultures of Knowledge Project, University of Oxford 
 
-<span id="lelkova"></span>
 Iva Lelková graduated from history and philosophy at Palacký University in Olomouc. She took part in the Mapping the Republic of Letters project as a Fulbright grantee at Stanford University in 2009/2010 where she worked on Athanasius Kircher’s correspondence updating the bibliography of Kircher's letters housed in other archives than the Gregorian University and worked with Suzanne Sutherland-Ducháček on cleaning and enhancing the database of Kircher’s correspondence. She wrote her dissertation on Athanasius’ Kircher influence in the Czech Lands and received her Ph.D. at Charles University in Prague. She is interested in early modern intellectual history, history of ideas, history of science and picture of science in early modern literature. She is now taking part in the Cultures of Knowledge project working on Jan Amos Komenský correspondence.  
 
 
