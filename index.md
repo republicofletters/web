@@ -5,4 +5,5 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+![Alt text](assets/themes/twitter/images/panorama.jpg)
 
