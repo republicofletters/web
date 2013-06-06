@@ -1,5 +1,8 @@
-Mapping Galileo
-===============
+---
+group: casestudies  
+layout: page  
+title: Mapping Galileo  
+---  
 
 ###Research Team  
 [Paula Findlen](/people/#findlen) (Lead)  

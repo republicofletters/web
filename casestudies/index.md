@@ -5,7 +5,7 @@ group: navigation
 ---
 
 
-<ul class="inline">
+<ul class="unstyled">
 	{% assign pages_list = site.pages %}
     {% assign group = 'casestudies' %}
     {% include JB/pages_list %}

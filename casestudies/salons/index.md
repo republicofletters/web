@@ -1,8 +1,8 @@
 ---
-layout: Page  
+layout: page  
 group: casestudies  
 title: The Salons Project
----
+---  
 
 
 ###Research Team

@@ -1,6 +1,6 @@
 ---
-layout:page  
-group:casestudies  
+layout: page  
+group: casestudies  
 title: D'Alembert's Correspondence
 ---
 

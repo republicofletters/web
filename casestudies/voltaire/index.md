@@ -1,8 +1,8 @@
 ---
-layout: page  
-group: casestudies  
-title:Voltaire and the Enlightenment
----
+layout: page   
+group: casestudies   
+title: Voltaire and the Enlightenment  
+---  
 
 
 [Voltaire Slideshow 1]

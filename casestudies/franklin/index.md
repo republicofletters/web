@@ -1,24 +1,19 @@
-Visualizing Benjamin Franklin's Correspondence Network
-==================
+---  
+group: casestudies  
+layout: page   
+title: Visualizing Benjamin Franklin's Correspondence Network
+---  
 
-Faculty Lead: Caroline Winterer, Professor of History and (by courtesy) of Classics
-
-Graduate Student Researchers:  
+###Research Team
+Caroline Winterer (Lead)
+ 
 Claire Rydell (2010 - present)  
 Hannah Marcus (2011 - present)  
 Julia Mansfield (2008 - 2011)  
 Scott Spillman (2008 - 2012)  
 
-How to Cite this Page:
 
-Claire Rydell and Caroline Winterer, "Benjamin Franklin's Correspondence Network, 1757-1763," Mapping the Republic of Letters Project, Stanford University, October 2012, INSERT LINK HERE
-
-Recent News
--
-November 2012 - Franklin Case Study featured in the blog "U.S. Intellectual History". [Click here to view the article]
-
-Project History
--
+###About the Project
 
 Like other Mapping the Republic of Letters projects, ours has included numerous phases. One of the first issues we confronted as early as 2008 was the need to limit our scope in terms of the volume of letters we dealt with at one time. After a few years of careful and copious data transcription of the over 15,000 letters that Benjamin Franklin either wrote or received over the course of his life, the entirety of Franklin’s correspondence proved too large a mapping endeavor for our first go at it. At this point, we stepped back to examine our goals for converting Franklin’s correspondence into “data” (the easily computer-digested dates, correspondents, locations of letters sent and received). What questions did we hope to answer by compiling such “data” from Franklin’s letters? Did such questions lend themselves to an examination of a smaller set of letters?
 
@@ -29,8 +24,8 @@ These explorations have also lent themselves to thinking broadly about the repub
 Caroline Winterer, “Where is America in the Republic of Letters?” Modern Intellectual
 History 9, 3 (Nov. 2012): 597-623.
 
-Current Goals and Interests of the Project
--
+####Current Goals and Interests of the Project
+
 Using the collection of Franklin's correspondence found [online], we exracted from Franklin's correspondence the following information about each letter: its date, its author and recipient and their genders, communities (aka “professions” in an eighteenth-century sense of the word), and places of birth; its source location and the location of its recipient. Once we had this information from each letter, we could shift our attention from the physical letters (Franklin’s correspondence) to the people behind the letters (Franklin’s correspondents) By engaging both with the letters and the people writing and receiving the letters, our team could formulate and answer two sets of questions: (type 1) those about the physical letters themselves and (type 2) those about the correspondents of whom Franklin’s correspondence network was comprised between 1756-1763. Thinking about Franklin’s correspondents themselves required that we separate out each individual correspondent from the “letters” spreadsheet to create a separate “individuals” spreadsheet. Armed with these two spreadsheets, we could begin the process creating computer-generated visualizations that enabled us to formulate and begin to answer very specific questions about the nature of Franklin’s correspondence and correspondents network.
 
 A few examples of type 1 questions with some preliminary conclusions reached by examining visualizations from the “letters” spreadsheet:
@@ -78,8 +73,8 @@ With these conclusions from the visualizations of Franklin’s correspondence ne
 
 Initial Question Answers from the visualizations of the data Level 2 Question inspired by the Answers from the Initial Question Interpretative Conclusions about the Level 2 question that help us understand Franklin in the context of his eighteenth century world.
 
-Defining Terms: “Cosmopolitanism”
--
+####Defining Terms: “Cosmopolitanism”
+
 
 Some of the level 2 questions we are engaging with now include the following:
 To what extent was Benjamin Franklin a “cosmopolitan” and how might we begin to define this term for maximum analytic utility during the eighteenth century? What can Franklin’s correspondence network tell us about the relationship between centers and peripheries in the eighteenth century? Are there significant or tangible differences between a process of Anglicization (someone like Franklin in a colonial periphery engaging more with and becoming integrated into centers like London and Edinburgh) and becoming a “cosmopolitan”?
@@ -89,6 +84,11 @@ One vivid example of how Franklin’s correspondence network reveals the prospec
 [Franklin and Voltaire]
 
 Note: Images are sketches, they need refinement and need to be checked for accuracy
+
+<hr>
+How to cite this page:  
+
+Claire Rydell and Caroline Winterer, "Benjamin Franklin's Correspondence Network, 1757-1763," Mapping the Republic of Letters Project, Stanford University, October 2012
 
 [click here to view the article]: http://us-intellectual-history.blogspot.com/2012/11/was-america-part-of-republic-of-letters.html
 [online]: http://www.franklinpapers.org/franklin/

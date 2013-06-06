@@ -1,5 +1,8 @@
-A Jesuit's Letters: Mapping Asthanius Kircher's Correspondence
-==================
+---
+group: casestudies  
+layout: page  
+title: A Jesuit's Letters: Mapping Asthanius Kircher's Correspondence
+---  
 
 [Kircher 1]
 [Kircher 1a]

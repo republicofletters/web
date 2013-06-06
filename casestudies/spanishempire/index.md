@@ -1,8 +1,8 @@
 ---
-layout:page  
+layout: page  
 group: casestudies  
 title: An Intellectual Map of Science in the Spanish Empire, 1600-1810
----
+---  
 ###Research Team
 [Marcelo Aranda](/people/#aranda) (Lead)  
 [Paula Findlen](/people/#findlen) (Advisor)

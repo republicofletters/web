@@ -1,8 +1,8 @@
 ---
-layout: Page  
-group: casestudies  
-title:Grand Tour Travelers
----
+layout: page   
+group: casestudies    
+title:Grand Tour Travelers 
+--- 
 
 [GT Slideshow 1]
 

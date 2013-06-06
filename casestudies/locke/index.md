@@ -1,8 +1,8 @@
 ---
-layout: Page  
+layout: page  
 group: casestudies  
-title:Locke's Letters Project
----
+title: Locke's Letters Project
+---  
 
 ###Research Team  
 Claude Willan  
