@@ -1,7 +1,8 @@
 
 http://republicofletters.stanford.edu/archive.html
 http://republicofletters.stanford.edu/atom.xml
-http://republicofletters.stanford.edu/casestudies/Voltaire.html
+http://republicofletters.stanford.edu/casestudies/index.html
+http://republicofletters.stanford.edu/casestudies/voltaire/index.html
 http://republicofletters.stanford.edu/categories.html
 http://republicofletters.stanford.edu/index.html
 http://republicofletters.stanford.edu/pages.html
