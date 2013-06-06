@@ -1,0 +1,397 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Visualizing Benjamin Franklin's Correspondence Network</title>
+    
+    <meta name="author" content="Humanities+Design">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le font -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
+
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+  </head>
+
+  <body>
+   
+   <!-- <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="/">Mapping the Republic of Letters</a>
+          <ul class="nav">
+            
+            
+            
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/casestudies/index.html">Case Studies</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/people/index.html">People</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/publications/index.html">Publications</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/teaching/index.html">Teaching</a></li>
+      	
+      
+    
+  
+
+
+
+          </ul>
+        </div>
+      </div>
+    </div>-->
+
+    <div class="container">
+      
+      <div class="row-fluid">
+        
+        <div id="logo" class="span3">
+          <a class="brand" href="/">
+            <img src="/assets/themes/twitter/images/mrofl_logo.png">
+          </a>
+        </div>
+
+        <div class="span9">
+         
+          <ul class="inline navigation">
+            
+            
+            
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/casestudies/index.html">Case Studies</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/people/index.html">People</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/publications/index.html">Publications</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/teaching/index.html">Teaching</a></li>
+      	
+      
+    
+  
+
+
+
+          </ul>
+
+          <div class="row-fluid">
+            
+<div class="page-header">
+  <h1>Visualizing Benjamin Franklin's Correspondence Network </h1>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <h3 id='research_team'>Research Team</h3>
+
+<p>Caroline Winterer (Lead)</p>
+
+<p>Claire Rydell (2010 - present)<br />Hannah Marcus (2011 - present)<br />Julia Mansfield (2008 - 2011)<br />Scott Spillman (2008 - 2012)</p>
+
+<h3 id='about_the_project'>About the Project</h3>
+
+<p>Like other Mapping the Republic of Letters projects, ours has included numerous phases. One of the first issues we confronted as early as 2008 was the need to limit our scope in terms of the volume of letters we dealt with at one time. After a few years of careful and copious data transcription of the over 15,000 letters that Benjamin Franklin either wrote or received over the course of his life, the entirety of Franklin’s correspondence proved too large a mapping endeavor for our first go at it. At this point, we stepped back to examine our goals for converting Franklin’s correspondence into “data” (the easily computer-digested dates, correspondents, locations of letters sent and received). What questions did we hope to answer by compiling such “data” from Franklin’s letters? Did such questions lend themselves to an examination of a smaller set of letters?</p>
+
+<p>After much deliberation, the Franklin team decided to limit our focus—for the time being—to the years between 1756 and 1763 when Franklin traveled to England and Scotland for the first time (Franklin sailed in 1757, but we extended our focus to a few month before and after his six year trip). The years between 1756/7-1762 were an exciting and formative moment in Franklin’s life. During these years, Franklin met many leading intellectual luminaries of his day, including David Hume and Lord Kames. In the two years since we began the intensive processing of Franklin’s correspondence between 1756 and 1763, we have formulated new and important questions about the nature of Franklin’s correspondence network—questions that lend themselves to the deeper and more precise nature of our investigation now structured around Franklin’s first trip to London.</p>
+
+<p>These explorations have also lent themselves to thinking broadly about the republic of letters and where the Americas fit into it. For an in-depth survey of these matters, see:</p>
+
+<p>Caroline Winterer, “Where is America in the Republic of Letters?” Modern Intellectual History 9, 3 (Nov. 2012): 597-623.</p>
+
+<h4 id='current_goals_and_interests_of_the_project'>Current Goals and Interests of the Project</h4>
+
+<p>Using the collection of Franklin&#8217;s correspondence found <a href='http://www.franklinpapers.org/franklin/'>online</a>, we exracted from Franklin&#8217;s correspondence the following information about each letter: its date, its author and recipient and their genders, communities (aka “professions” in an eighteenth-century sense of the word), and places of birth; its source location and the location of its recipient. Once we had this information from each letter, we could shift our attention from the physical letters (Franklin’s correspondence) to the people behind the letters (Franklin’s correspondents) By engaging both with the letters and the people writing and receiving the letters, our team could formulate and answer two sets of questions: (type 1) those about the physical letters themselves and (type 2) those about the correspondents of whom Franklin’s correspondence network was comprised between 1756-1763. Thinking about Franklin’s correspondents themselves required that we separate out each individual correspondent from the “letters” spreadsheet to create a separate “individuals” spreadsheet. Armed with these two spreadsheets, we could begin the process creating computer-generated visualizations that enabled us to formulate and begin to answer very specific questions about the nature of Franklin’s correspondence and correspondents network.</p>
+
+<p>A few examples of type 1 questions with some preliminary conclusions reached by examining visualizations from the “letters” spreadsheet:</p>
+
+<p>A. During what months did Franklin receive letters from particular locations (i.e. England, Scotland, and America) and how did the numbers of letters from one location relate proportionally to letters from other locations?</p>
+
+<p>One conclusion drawn: In December 1756, before Franklin set sail for London, 100% of letters he received came from America. In January 1762, when Franklin is overseas, 100% of letters he received came from England. In December 1763, when Franklin had returned from London, over 75% of letters Franklin received were from America.</p>
+
+<p><a href='https://stanford.box.com/franklin1a'>Franklin 1A</a></p>
+
+<p>B. When did Franklin receive letters from Scotland? Franklin received letters from Scotland in only four months between 1757-1763: in September 1759, October 1759, March 1761, and May 1762</p>
+
+<p><a href='https://stanford.box.com/franklin1b'>Franklin 1B</a></p>
+
+<p>C. From what countries did Franklin receive most of his letters between 1757 and 1763? Franklin received nearly all his letters from two places: British America and England. Very few other places are represented, challenging us to think about the timing of Franklin’s ascent into the ranks of the “cosmopolitan” on the world stage</p>
+
+<p><a href='https://stanford.box.com/franklin1c'>Franklin 1C</a></p>
+
+<p>A few examples of type 2 questions with some preliminary conclusions reached by examining visualizations from the “correspondents” spreadsheet:</p>
+
+<p>A. Who were Franklin’s top correspondents by volume of correspondence?</p>
+
+<ol>
+<li>Isaac Norris</li>
+
+<li>Mary Stevenson</li>
+
+<li>David Hall</li>
+
+<li>Deborah Franklin</li>
+
+<li>William Strahan</li>
+</ol>
+
+<p>B. Grouped by gender, who were Franklin’s top correspondents? Male: Isaac Norris, David Hall, William Strahan, Peter Collinson Female: Mary Stevenson, Deborah Franklin, Jane Mecom, Elizabeth Graeme</p>
+
+<p>C. Grouped by country of birth, who were Franklin’s top correspondents? David Hall and William Strahan appear to be Franklin’s top two “Scottish” correspondents, but neither one actually lived in Scotland at the time of Franklin’s trip there. Mary Stevenson, the daughter of Franklin’s London landlady, Margaret Stevenson is Franklin’s top “English”correspondent during this time.</p>
+
+<p>D. With what community association or professional group did Franklin correspond the most? Top five: professionals, secular officials, professionals and secular officials, artisans and church officials</p>
+
+<p>E. Where do women rank in his network? Franklin wrote most of his letters to men.</p>
+
+<p><a href='https://stanford.box.com/franklin2e'>Franklin 2E</a></p>
+
+<p>With these conclusions from the visualizations of Franklin’s correspondence network, our team is generating a second set of questions, which will result in a new interpretation of Franklin’s presence on the world stage during this first trip to London.</p>
+
+<p>Initial Question Answers from the visualizations of the data Level 2 Question inspired by the Answers from the Initial Question Interpretative Conclusions about the Level 2 question that help us understand Franklin in the context of his eighteenth century world.</p>
+
+<h4 id='defining_terms_cosmopolitanism'>Defining Terms: “Cosmopolitanism”</h4>
+
+<p>Some of the level 2 questions we are engaging with now include the following: To what extent was Benjamin Franklin a “cosmopolitan” and how might we begin to define this term for maximum analytic utility during the eighteenth century? What can Franklin’s correspondence network tell us about the relationship between centers and peripheries in the eighteenth century? Are there significant or tangible differences between a process of Anglicization (someone like Franklin in a colonial periphery engaging more with and becoming integrated into centers like London and Edinburgh) and becoming a “cosmopolitan”?</p>
+
+<p>One vivid example of how Franklin’s correspondence network reveals the prospects and limits of “cosmopolitanism” is to compare it with Voltaire’s. The geomap below show Franklin’s network (top) and Voltaire’s (bottom). Many of Franklin’s letters crossed the Atlantic; only a few of Voltaire’s did. One could argue that Franklin was more cosmopolitan than Voltaire because his letter network was more trans-Atlantic; yet any scholar working in the Enlightenment would vigorously dispute that conclusion, arguing that other measures should also help us to define cosmopolitanism. Visualizations of these kinds, in short, challenge us to think about how we might define analytic terms such as “cosmopolitanism” more rigorously, including both impressionistic measures and numerical measures.</p>
+
+<p><a href='https://stanford.box.com/franklinvsvoltaire'>Franklin and Voltaire</a></p>
+
+<p>Note: Images are sketches, they need refinement and need to be checked for accuracy</p>
+<hr />
+<p>How to cite this page:</p>
+
+<p>Claire Rydell and Caroline Winterer, &#8220;Benjamin Franklin&#8217;s Correspondence Network, 1757-1763,&#8221; Mapping the Republic of Letters Project, Stanford University, October 2012</p>
+  </div>
+</div>
+
+
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      
+
+      <div class="row-fluid">
+        <div class="offset3">
+          <footer>
+        <p>&copy; 2013 Stanford University.
+        </p>
+      </footer>
+        </div>
+      </div>
+
+    </div>
+
+    
+  </body>
+</html>
+
