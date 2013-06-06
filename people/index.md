@@ -70,14 +70,20 @@ Sarah received her BA in Classical Archaeology from Dartmouth College in 2004. I
 
 
 ####Irène Passeron  
-Groupe D’Alembert, CNRS, Paris, France
+Groupe D’Alembert, CNRS, Paris, France  
 <span id="passeron"></span>
+Irène Passeron, Chercheur CNRS, équipe d'Histoire des sciences mathématiques de l'Institut de mathématiques de Jussieu (UMR 7586), Paris  
+Contact: [passeron@math.jussieu.fr](a href="mailto:passeron@math.jussieu.fr")
+
 Irène Passeron is a CNRS researcher in the history of mathematics. She coordinates the activities of the Group D'Alembert since 2004.  Ten volumes of both scientific (celestial mechanics, dynamics) and philosophical (Discours préliminaire de l'*Encyclopédie*, *Mélanges*) are in preparation.  For fifteen years, she cares more specifically of D'Alembert correspondence that is published in a critical edition and annotated in 11 volumes.  In connection with the study of the scientific networks of the Enlightenment, she studies many other correspondences.  Irène Passeron and Marie-Laure Massot have been working together since 2005, both in the animation of Group D'Alembert (organization of working sessions, editorial work) and on D'Alembert's correspondence (archival research, work on the database).  
 
 
 ####Marie-Laure Massot
-Groupe D’Alembert, CNRS, Paris, France
+Groupe D’Alembert, CNRS, Paris, France  
 <span id="massot"></span>
+Marie-Laure Massot, Ingénieur d'études CNRS, editorial specialist at the Cirphles Laboratory (USR 3308), ENS Paris  
+Contact: marie-laure.massot@ens.fr  
+
 Marie-Laure Massot has been working with the researchers of the Groupe D’Alembert for over eight years since 2004. She contributes as editorial specialist to the long-term project of edition of the complete works of D’Alembert and coordinates conferences in the field of history of science. Her educational background in science and in philosophy, combined to her training as editorial specialist has given her a broad baseline from which to approach history of science and more specifically D’Alembert’s correspondence.  Her contribution in the publication of the *Oeuvres complètes de D'Alembert* may be highlighted by the coming of five volumes of the collection since 2005 (http://dalembert.obspm.fr/). She especially enjoys annotating letters and preparing biographies for D’Alembert’s correspondents.  She is currently Ingénieur d’études CNRS, that is, editorial specialist at the Cirphles Laboratory at Ecole Normale Supérieure de Paris (http://cirphles.ens.fr/). She joined the *Mapping the Republic of Letters* project during the 2011-2012 academic year at Stanford University and carried out a series of visualizations of D’Alembert’s correspondence, thus initiating the link between the tools developed at Stanford and the D’Alembert project and correspondence database. Beyond the collaboration, it was for her a voyage of discovery into the new challenges and possibilities of Digital Humanities. At the interaction between Humanities, Computer science and Design, this journey triggered a new world of research interests.  
 
 

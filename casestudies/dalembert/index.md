@@ -1,22 +1,25 @@
-D'Alembert's Correspondence
-===========================
+---
+layout:page  
+group:casestudies  
+title: D'Alembert's Correspondence
+---
 
-[D'Alembert Slideshow]
+  
 
-Research Team: Irène Passeron (Faculty Lead), Marie-Laure Massot
+**put slideshow here: images from /assets/images/dalembert/slideshow1/
 
-Irène Passeron, Chercheur CNRS, équipe d'Histoire des sciences mathématiques de l'Institut de mathématiques de Jussieu (UMR 7586), Paris.
-Contact: passeron@math.jussieu.fr
+###Research Team
+[Irène Passeron](/people/#passeron) (Lead)  
+[Marie-Laure Massot](/people/#massot)  
 
-Marie-Laure Massot, Ingénieur d'études CNRS, editorial specialist at the Cirphles Laboratory (USR 3308), ENS Paris.
-Contact: marie-laure.massot@ens.fr
 
-Primary Source: http://dalembert.obspm.fr/Correspondance-formulaire.php
+
+Primary Source: [http://dalembert.obspm.fr/Correspondance-formulaire.php]
 
 *Inventaire analytique de la correspondance 1741-1783*, Jean le Rond D'Alembert, édition établie par Irène Passeron avec la collaboration de Anne-Marie Chouillet et Jean-Daniel Candaux, CNRS Editions, Paris 2009.
 
-Group D'Alembert and the D'Alembert's Correspondence project:
--
+###About the project
+
 
 Group D'Alembert (CNRS, France) brings together forty researchers around the annotated and critical edition of the Complete Works of D'Alembert, in sixty volumes of scientific literature, encyclopaedias, academic, literary and historical. Six volumes have been published by CNRS Editions since 2002. To do this, many search tools (inventories, bibliographies, chronologies, research on contemporary scholars) have been jointly developed and compiled in part on the site http://dalembert.obspm.fr/
 
@@ -28,16 +31,16 @@ Marie-Laure Massot joined the *Mapping the Republic of Letters* project last aca
 
 Exploring the metadata for D'Alembert's correspondence is a great way to travel with one of the greatest french scientist and philosopher of the eighteenth-century through his data to have a better idea of his work and his intellectual network. It is also a great opportunity for us to join our D'Alembert's data to others major actors of the Republic of Letters ones in order to do some significant comparisons of their respectives networks.
 
-Visualizing Jean le Rond D'Alembert's Intellectual, Scientific and Social Network, a digital journey into his correspondence:
--
+####Visualizing Jean le Rond D'Alembert's Network
+
 
 We are exploring everything from D'Alembert's correspondents, to the shape of his network through the journeys of his letters, to the letters themselves.  We dive deeper and deeper into his personal life and his intellectual, scientific and social interests in order to draw a better picture of his character, his network and his place in the Republic of Letters. We can also do some comparisons with Voltaire and Franklin networks to figure out their extents and their cosmopolitanism.
 
 *Letters sent and received by D'Alembert from 1741 to 1783*
 [D'Alembert 1]
 
-Mapping D'Alembert: measuring D'Alembert's correspondence (extant). Quantitative overview:
--
+**Mapping D'Alembert: measuring D'Alembert's correspondence (extant). Quantitative overview:**
+
 
 A study of the relations between science and philosophy during the Enlightenment as seen through the activities of one of its most prominent spokesmen, Jean le Rond D'Alembert.
 
@@ -49,8 +52,7 @@ Study of D'Alembert's correspondents's gender, nationality, occupation and "mili
 
 Rather D'Alembert attempted to place him in the scientific, social, and "philosophical" communities of the eighteenth century, to show how one important philosophe lived in all three worlds.
 
-Mapping the Republic of Letters: exploring and comparing the databases of three main figures of the Republic of Letters (Voltaire, Benjamin Franklin and D'Alembert)
--
+**Mapping the Republic of Letters: exploring and comparing the databases of three main figures of the Republic of Letters (Voltaire, Benjamin Franklin and D'Alembert)**
 
 Comparisons with Voltaire and Franklin correspondences networks: How does D'Alembert's correspondence network compare to Voltaire and Franklin?
 
@@ -60,8 +62,8 @@ Comparative breadth and extent of the networks.
 
 Tree different samples of Cosmopolitism?
 
-Mapping a Letter: New Ways of Defining and Understanding a Letter
--
+**Mapping a Letter: New Ways of Defining and Understanding a Letter**
+
 
 Can we trace the circulation of new ideas and concepts based on letter topics? Can we caracterize a letter (mentions and localisation of people, books and authors cited, main topics and idea of the letter, interaction between letters, manuscript and translation)?
 
@@ -73,8 +75,8 @@ The Letter from D'Alembert to la marquise Du Deffand, 22th of December 1752 (Loc
 
 [Letter from D'Alembert to la marquise Du Deffand, 22 décembre 1752], (Mss Misc 169) used with permission, Department of Special Collections and University Archives, Stanford University Libraries, California, USA. Photographie prise par Marie-Laure Massot.
 
-First visualizations with Tableau and Excel
--
+**First visualizations with Tableau and Excel**
+
 
 Destinations of the letters sent by D'Alembert and sources of the letters received by D'Alembert (1741-1756): 
 D'Alembert's network is mostly a French one with a European extension (Germany and Russia):
@@ -93,8 +95,7 @@ Letters sent and received by D'Alembert per year, month and colored by locations
 
 [D'Alembert 5]
 
-D'Alembert's correspondence network : a digital journey into D'Alembert's correspondence using the MRofL tools
--
+**D'Alembert's correspondence network : a digital journey into D'Alembert's correspondence using the MRofL tools**
 
 Ink was designed for the high-level exploration of a single correspondence collection. This particular approach is helpful when investigating the character of the network of one prominent individual like Votaire, Franklin, or D'Alembert. The data behind the visualization is configured such that all the letters --sent and received--for this central figure are accounted for, but calculations involving different dimensions of his correspondence network do not. Ink includes three views: Map, timeline with histogram, and a version of Fineo, a flow diagram. 
 
@@ -106,8 +107,7 @@ Inquiry allows you to explore across correspondence archives. In this example we
 
 Knot
 
-References:
--
+###References
 
 Irène Passeron:
 "D'Alembert et ses correspondants : Mélanges de littérature, d'histoire et de philosophie", *Des "passeurs" entre science, histoire et littérature. Contribution à l'étude de la construction des savoirs (1750-1840)*,sous la dir. de G. Bertrand et A. Guyot, ELLUG, Grenoble, 2011.
@@ -118,6 +118,14 @@ Irène Passeron:
 
 "La correspondance de D'Alembert : un réseau européen ?", *D'Alembert, i Lumi, l'Europa, Bollettino di Storia delle scienze matematiche*, CLUEB, Bologne, 2008/2.
 
+<hr />
+
+
+###Visualization tools
+
+Excel  
+Tableau  
+[Ink](http://ink.designhumanities.org/dalembert)  
 
 [d'alembert slideshow]: https://stanford.box.com/dalembertss1
 [a digital journey into d'alembert's correspondence]: https://rofl-net.stanford.edu/groups/dalembertpublic/wiki/0991c/Report.html
