@@ -1,12 +1,13 @@
 The Salons Project
 ==================
 
-Faculty Lead: Melanie Conroy (Stanford, mconroy@stanford.edu)
+##Research Team
+<a href="people.html/#conroy">Melanie Conroy</a> (lead)  
+<a href="people.html/#comsa">Maria Comsa</a>   
+<a href="people.html/#bernard">Alice Bernard</a>   
+<a href="people.html/#kale">Steven Kale</a>  
 
-Researchers:  
-Maria Comsa (Stanford)  
-Alice Bernard (Paris I)  
-Steven Kale (Washington State)  
+<hr>
 
 About the Project
 -
@@ -28,3 +29,9 @@ Goals for the 2012-2013 academic year:
 - 19th Century French Salons: Melanie Conroy is compiling a dataset based on research by Steven Kale and the Michaud biography of famous individuals.
 
 - Paris in 1900: Through a complete survey of articles in *Le Figaro*, Alice Bernard has completed a complex demographic survey of Parisian salons of 1900. This portrait of Parisian high society is our deepest dataset and includes precise dates for attendance, as well as family and work relationships, as they stood in 1900. This will be the most complete cross-section of French high society.
+
+<hr>
+
+
+### Visualization Tools
+Gephi  
