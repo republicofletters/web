@@ -51,10 +51,11 @@
       </div>
     </div>-->
 
-    <div class="navigation container">
+    <div class="container">
+      
       <div class="row-fluid">
         
-        <div class="span3">
+        <div id="logo" class="span3">
           <a class="brand" href="{{ HOME_PATH }}">
             <img src="{{ ASSET_PATH }}/images/mrofl_logo.png">
           </a>
@@ -62,7 +63,7 @@
 
         <div class="span9">
          
-          <ul class="inline">
+          <ul class="inline navigation">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}

@@ -20,6 +20,10 @@ footer,
   text-decoration: none;
 }
 
+#logo {
+  margin-top: 20px;
+}
+
 footer {
   color: #888888;
 }
