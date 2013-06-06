@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: Page  
+group: casestudies  
 title: Voltaire and the Enlightenment
 ---
 
