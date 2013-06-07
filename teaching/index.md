@@ -23,9 +23,6 @@ How did a "republic of letters" emerge in the Renaissance and undergo multiple t
 <hr>
 <ul class="rslides">
 <li><img src="https://stanford.box.com/shared/static/a5s6h8c2eq7g6dyjkk66.png"></li>
-  <li><img src="https://stanford.box.com/shared/static/6zfgnm5ctl5px0ysr5i7.jpg"></li>
-  <li><img src="https://stanford.box.com/shared/static/g8hujliekw3l4io02td1.png"></li>
-  
 <li><img src="https://stanford.box.com/shared/static/6zfgnm5ctl5px0ysr5i7.jpg"></li>
 <li><img src="https://stanford.box.com/shared/static/g8hujliekw3l4io02td1.png"></li>
 </ul>
