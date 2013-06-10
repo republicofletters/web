@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Case Studies
-group: navigation
----
+group: navigation 
+---  
 
 
 <ul class="unstyled">
