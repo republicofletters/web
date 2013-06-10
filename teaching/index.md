@@ -21,17 +21,12 @@ Paula Findlen And Robert Fredona
 
 How did a "republic of letters" emerge in the Renaissance and undergo multiple transformations during the Reformation, Scientific Revolution, and Enlightenment? How did knowledge, communication, and community change between the age of Renaissance humanists such as Petrarch, Machiavelli, and Erasmus, the invention of printing, the political, religious and intellectual upheavals of the seventeenth century, and the trans-Atlantic, cosmopolitan world of salons, libraries, and enlightened philosophers such as Voltaire, Gibbon, and Franklin?
 <hr>
-<ul class="rslides">
-<li><img src="https://stanford.box.com/shared/static/a5s6h8c2eq7g6dyjkk66.png"></li>
-<li><img src="https://stanford.box.com/shared/static/6zfgnm5ctl5px0ysr5i7.jpg"></li>
-<li><img src="https://stanford.box.com/shared/static/g8hujliekw3l4io02td1.png"></li>
-</ul>
+
 ###CLASSGEN 138 
 **Modern Journeys in Ancient Lands: Building a Spatial History of the Grand Tour**  
 Giovanna Ceserani  
 Sarah Murray  
 Touring the ancient sites of Italy was an educational rite of passage for 18th-century British elites. Where did Grand Tourists travel? How did the places visited and people encountered affect them, and shape our own vision of the ancient world? Analysis of the literary, geographic, and ideological landscapes of the Grand Tour through focus on primary sources (archival and published) and modern geoanalytical tools (from Google Earth to GIS) to create dynamic visualizations reflecting current theoretical and historical approaches.
-
 <ul class="rslides">
 <li><img src="https://stanford.box.com/shared/static/a5s6h8c2eq7g6dyjkk66.png"></li>
 <li><img src="https://stanford.box.com/shared/static/6zfgnm5ctl5px0ysr5i7.jpg"></li>
