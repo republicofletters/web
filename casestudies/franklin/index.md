@@ -34,17 +34,17 @@ A. During what months did Franklin receive letters from particular locations (i.
 
 One conclusion drawn: In December 1756, before Franklin set sail for London, 100% of letters he received came from America. In January 1762, when Franklin is overseas, 100% of letters he received came from England. In December 1763, when Franklin had returned from London, over 75% of letters Franklin received were from America.
 
-[Franklin 1A]
+![](https://stanford.box.com/shared/static/3xdsi0gpksvgdxsfrizz.png)
 
 B. When did Franklin receive letters from Scotland?
 Franklin received letters from Scotland in only four months between 1757-1763: in September 1759, October 1759, March 1761, and May 1762
 
-[Franklin 1B]
+![](https://stanford.box.com/shared/static/ku9gc4awh1n28gfn26wh.png)
 
 C. From what countries did Franklin receive most of his letters between 1757 and 1763?
 Franklin received nearly all his letters from two places: British America and England. Very few other places are represented, challenging us to think about the timing of Franklin’s ascent into the ranks of the “cosmopolitan” on the world stage
 
-[Franklin 1C]
+![](https://stanford.box.com/shared/static/wj2ehf0ov98pstwis9ex.png)
 
 A few examples of type 2 questions with some preliminary conclusions reached by examining visualizations from the “correspondents” spreadsheet:
 
@@ -67,7 +67,7 @@ Top five: professionals, secular officials, professionals and secular officials,
 
 E. Where do women rank in his network? Franklin wrote most of his letters to men.
 
-[Franklin 2E]
+![](https://stanford.box.com/shared/static/eeuspgztjfcvrx1dg35d.png)
 
 With these conclusions from the visualizations of Franklin’s correspondence network, our team is generating a second set of questions, which will result in a new interpretation of Franklin’s presence on the world stage during this first trip to London.
 
@@ -92,9 +92,9 @@ Claire Rydell and Caroline Winterer, "Benjamin Franklin's Correspondence Network
 
 [click here to view the article]: http://us-intellectual-history.blogspot.com/2012/11/was-america-part-of-republic-of-letters.html
 [online]: http://www.franklinpapers.org/franklin/
-[franklin 1a]: https://stanford.box.com/franklin1a
-[franklin 1b]: https://stanford.box.com/franklin1b
-[franklin 1c]: https://stanford.box.com/franklin1c
-[franklin 2e]: https://stanford.box.com/franklin2e
+[franklin 1a]: https://stanford.box.com/shared/static/3xdsi0gpksvgdxsfrizz.png
+[franklin 1b]: https://stanford.box.com/shared/static/ku9gc4awh1n28gfn26wh.png
+[franklin 1c]: https://stanford.box.com/shared/static/wj2ehf0ov98pstwis9ex.png
+[franklin 2e]: https://stanford.box.com/shared/static/eeuspgztjfcvrx1dg35d.png
 [franklin and voltaire]: https://stanford.box.com/franklinvsvoltaire
 
