@@ -17,10 +17,9 @@ This project uses the surviving correspondence of the mathematician and astronom
 One of the interesting challenges of mapping Galileo’s networks regards the deliberate destruction of sensitive letters as a result of his trial and condemnation for his advocacy of Copernican astronomy in 1633, and the accidental loss of other letters after his death in 1642 when heirs did not carefully preserve this patrimony (they were infamously being used to wrap meat by a Florentine butcher when they were rediscovered in the eighteenth century!).
 
 *Number of letters sent by Galileo per year*  
-[Bar graph]
+![](https://stanford.box.com/shared/static/e94v4w48v18ssrbh5yrz.png)
 
-*Galileo's recipient pie chart*  
-[Pie chart]
+![](https://stanford.box.com/shared/static/0msqfxkt0vqevxoh7waj.png)
 
 Red: Members of the Medici Court in Florence  
 Gold: Members of the Lincean Academy  
@@ -30,7 +29,7 @@ Pink: Authors outside of Italy
 Light Blue: Artists - helping to locate Galileo not just in science, but within larger culture and the arts  
 
 *Calendar of Letters Sent to Destination City, 1610-1612*  
-[Calendar]
+![](https://stanford.box.com/shared/static/lzo2uk2qzvuoxn0ptwsp.png)
 
 Red: Florence  
 Purple: Rome  
@@ -46,9 +45,9 @@ Gephi
 Tableau  
 
 
-[bar graph]: https://stanford.box.com/galileobargraph
-[pie chart]: https://stanford.box.com/piechart
-[calendar]: https://stanford.box.com/galileocalendar
+[bar graph]: https://stanford.box.com/shared/static/e94v4w48v18ssrbh5yrz.png
+[pie chart]: https://stanford.box.com/shared/static/0msqfxkt0vqevxoh7waj.png
+[calendar]: https://stanford.box.com/shared/static/lzo2uk2qzvuoxn0ptwsp.png
 
 
 
