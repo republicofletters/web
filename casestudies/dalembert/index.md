@@ -132,10 +132,10 @@ Tableau
 
 [d'alembert slideshow]: https://stanford.box.com/dalembertss1
 [a digital journey into d'alembert's correspondence]: https://rofl-net.stanford.edu/groups/dalembertpublic/wiki/0991c/Report.html
-[d'alembert 1]: https://stanford.box.com/dalembert1
-[d'alembert 2]: https://stanford.box.com/dalembert2
-[d'alembert 3]: https://stanford.box.com/dalembert3
-[d'alembert 4]: https://stanford.box.com/dalembert4
+[d'alembert 1]: https://stanford.box.com/shared/static/xdzpiqchxb5rcfbot8jt.png
+[d'alembert 2]: https://stanford.box.com/shared/static/nnb5h47heljsaboehfwh.png
+[d'alembert 3]: https://stanford.box.com/shared/static/qho5edxh7fb7yeuseuxa.png
+[d'alembert 4]: https://stanford.box.com/shared/static/7jbizj5vykjgxfbnbpu5.png
 [d'alembert small slideshow]: https://stanford.box.com/dalembertss2
-[d'alembert 5]: https://stanford.box.com/dalembert5
+[d'alembert 5]: https://stanford.box.com/shared/static/6ghu8nf07m0ppbyita06.png
 
