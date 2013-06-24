@@ -5,7 +5,7 @@ group: casestudies
 title: Francesco Algarotti's Reverse Grand Tour: Travels, Publications, and Letters
 ---  
 
-[Algarotti Slideshow]
+<img src="https://stanford.box.com/s/fm1wkqcdujiwruemn7ge" />
 
 ###Research Team
 
