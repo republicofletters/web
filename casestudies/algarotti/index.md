@@ -4,7 +4,7 @@ group: casestudies
 
 title: Francesco Algarotti's Reverse Grand Tour: Travels, Publications, and Letters
 ---  
-
+<link href="http://www.w3resource.com/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet">  
 <img src="https://stanford.box.com/shared/static/wuj2sfup0zz6qea50zp7.jpg" />
 
 ###Research Team
@@ -13,7 +13,6 @@ Paula Findlen (Lead)
 
 Cheryl Smeall  
 Hannah Marcus  
-
 
 ###About the Project
 
@@ -48,3 +47,11 @@ In 2012-13 Findlen and Smeall are collaborating with Nicole Coleman to develop t
   <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div>
 
+<ul class="pager">  
+  <li>  
+    <a href="#">Previous</a>  
+  </li>  
+  <li>  
+    <a href="#">Next</a>  
+  </li>  
+</ul>  
