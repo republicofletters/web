@@ -23,7 +23,7 @@ Correspondences made the Republic of Letters, in that they provided avenues for 
 
 **Text to Data**
 
-Since we began our project in 2008, we have been wrestling with the complex process of transforming a rich, nuanced set of historical information into a coherent dataset.  Our  challenge is to harvest the gappy, uncertain, and contingent information at our disposal in a way that simultaneously retains its complexities *and* gives us data in a format that machines can work with.  The Ingamells dictionary is full of idiosyncracies. We often know very little about an individual besides a last name and a sighting in Venice sometime between April of 1712 and July of 1713. Perhaps we know that traveler X probably had dinner with another traveler in Florence around Christmas of 1780.  He were certainly involved in a punch-up at a social gathering in Naples. And so on. How do we express these kinds of events in a database? The digitized Ingamells dictionary is huge, containing thousands and thousands of pieces of information, so we must make our decisions about data with care, since each repurposing of the database can require hours and hours of labor to implement. [GT 1]
+Since we began our project in 2008, we have been wrestling with the complex process of transforming a rich, nuanced set of historical information into a coherent dataset.  Our  challenge is to harvest the gappy, uncertain, and contingent information at our disposal in a way that simultaneously retains its complexities *and* gives us data in a format that machines can work with.  The Ingamells dictionary is full of idiosyncracies. We often know very little about an individual besides a last name and a sighting in Venice sometime between April of 1712 and July of 1713. Perhaps we know that traveler X probably had dinner with another traveler in Florence around Christmas of 1780.  He were certainly involved in a punch-up at a social gathering in Naples. And so on. How do we express these kinds of events in a database? The digitized Ingamells dictionary is huge, containing thousands and thousands of pieces of information, so we must make our decisions about data with care, since each repurposing of the database can require hours and hours of labor to implement. ![](https://stanford.box.com/shared/static/n0e5e9xg17gv7k78gf5r.jpg)
 
 **How is the Project Spatial**
 
@@ -31,25 +31,25 @@ I. **Geographical Space**
 
 Our Grand Tour Data is, in many ways, a pure geodatabase, insofar as every event and person we have recorded has geographical data (albeit at a variety of resolutions) associated with it.  The core of our database is the information about where in Italy various individuals appear in Italy during the course of the 18th century, and it was the richness of this geographical information that inspired us to attempt to visualize the Ingamells dictionary in the first place. We began with questions that were literally about collisions in space: when did people encounter each other physically during the 18th century? How did travel and correspondence intertwine to generate Enlightenment intellectual and social networks? These *geographical* questions drove our early visualizations:
 
-1. ***City Plots***: Which Italian cities were most visited by British travelers in the 18th century? This is a very basic question, but one that could not be answered without a large dataset like the one we built.  Even though Ingamells’ dictionary is not comprehensive, it is large enough that it should be expected to provide a representative sample of relative city popularity. [GT 2]  
+1. ***City Plots***: Which Italian cities were most visited by British travelers in the 18th century? This is a very basic question, but one that could not be answered without a large dataset like the one we built.  Even though Ingamells’ dictionary is not comprehensive, it is large enough that it should be expected to provide a representative sample of relative city popularity. ![](https://stanford.box.com/shared/static/e9ox0s0fr7fqkrw7uxsh.png)  
 
 
-2. ***Jesse Kriss: When in Rome***: How did the destinations of travelers compare? Working with data designer Jesse Kriss, we developed visualizations that allowed us to compare the order of cities visited from one Grand Tourist to the next. [GT 3]  
+2. ***Jesse Kriss: When in Rome***: How did the destinations of travelers compare? Working with data designer Jesse Kriss, we developed visualizations that allowed us to compare the order of cities visited from one Grand Tourist to the next. ![](https://stanford.box.com/shared/static/sqp1cx4z6mk871b4iola.png)  
 
 
-3. ***Geography at a Glance***: What patterns can we see in the geography of someone’s tour? Did they travel to the usual cities, branch out to all corners of Italy, or stick with a particular region? Our “Grand Tour at a Glance” provided a search enabled location plot, so a user could see a quick summary of the geographical purview of a particular research subject. [GT 4]  
+3. ***Geography at a Glance***: What patterns can we see in the geography of someone’s tour? Did they travel to the usual cities, branch out to all corners of Italy, or stick with a particular region? Our “Grand Tour at a Glance” provided a search enabled location plot, so a user could see a quick summary of the geographical purview of a particular research subject. ![](https://stanford.box.com/shared/static/imttpoqmx3d75jwlxj9f.png)  
 
 
 4. ***Route Maps***: How did people get around from place to place? Did they go by land or by sea, take old Roman roads or cut across the countryside? Did travel (and by proxy communication) increase in ease and swiftness though time as progress and technology marched forward over the course of the 1700s?  These are questions we sought to answer using the spatial and temporal data that we have generated in our project.  We georectified 18th century maps in order to assess the likely routes that travelers may have taken, and produced route maps for individual travelers according to contemporary routes and conditions.
 
-One particular case study looked in detail at travel to Sicily, since this is a region that is grew more popular/open to travelers over time.  Our researchers engaged with primary sources (journals and letters written by travelers) in order to chart the nature and conditions of travel within Sicily.  The maps produced show that infrastructure and knowledge networks grew over time in ways that fundamentally altered the experience of Southern Italian travel. [GT 5]
+One particular case study looked in detail at travel to Sicily, since this is a region that is grew more popular/open to travelers over time.  Our researchers engaged with primary sources (journals and letters written by travelers) in order to chart the nature and conditions of travel within Sicily.  The maps produced show that infrastructure and knowledge networks grew over time in ways that fundamentally altered the experience of Southern Italian travel. ![](https://stanford.box.com/shared/static/nwvyb6flnpy60aql3m7k.png)
 
 
 II. **Temporal Space**
 
 While our data is about movement in space, it is also about the nexus between time and space. Because our dataset is so rich, our attempts to represent our data in “real” geography often ended up being muddled and confused. While mapping individual travel in places like Sicily produced compelling results, we simply had *too much* data for patterns in the data to be effectively clarified by geographical mapping on the scale of the entire dataset.  We therefore sought different kinds of space through which to explore our data.
 
-As a result, we developed a visual tool inspired by Joseph Priestley's Chart of Biography (1765). This timeline revolutionized the way that students learned about history and "accelerated understanding of historic patterns." [GT 6]  
+As a result, we developed a visual tool inspired by Joseph Priestley's Chart of Biography (1765). This timeline revolutionized the way that students learned about history and "accelerated understanding of historic patterns." ![](https://stanford.box.com/shared/static/o7kmosl09syb8jvztbiq.png) 
 
 Using Priestley’s Chart as a notional prototype, we built an interactive timeline of Grand Tourists. This tool quickly contextualizes the information about individual travelers, while also showing us “big” patterns in the data at a glance.
 
@@ -60,10 +60,10 @@ III. **Social Space**
 
 In addition to temporal and geographical space, we have investigated the social spaces made up by the Grand Tour.  In the end, the Grand Tour was all about people, and the relationships that developed and flourished among the Englishmen in Italy during the 18th century, and we are very much interested in the nature of human geography during this crucial period of intellectual history.
 
-1. ***Charles Burney***: One way to approach social space is through the lens of a particular traveler.  Our research into social networks on the Grand Tour has so far been focused on Charles Burney, a composer.  Burney made many connections during his trips to Italy during the 18th century, and the social networks he developed in different cities developed along with his career in ways that enlighten the nature of the musical profession as it existed in our period. [GT 7]  
+1. ***Charles Burney***: One way to approach social space is through the lens of a particular traveler.  Our research into social networks on the Grand Tour has so far been focused on Charles Burney, a composer.  Burney made many connections during his trips to Italy during the 18th century, and the social networks he developed in different cities developed along with his career in ways that enlighten the nature of the musical profession as it existed in our period. ![](https://stanford.box.com/shared/static/97h9twz28y00d9task3z.png)  
 
 
-2. ***The Unconnected Network***: We also took a look at Grand Tour relational space through a coarser periscope.  We experimented with a view showing all of travelers who were associated with a city as dots. Then we showed connections that existed among travelers to a single city, whether they be due to correspondence, familial, or incidental relationships.  This allows us to explore the space of the Grand Tour in a completely new way, which never would have been possible using traditional methods. [GT 8]  
+2. ***The Unconnected Network***: We also took a look at Grand Tour relational space through a coarser periscope.  We experimented with a view showing all of travelers who were associated with a city as dots. Then we showed connections that existed among travelers to a single city, whether they be due to correspondence, familial, or incidental relationships.  This allows us to explore the space of the Grand Tour in a completely new way, which never would have been possible using traditional methods. ![](https://stanford.box.com/shared/static/qhttmu9cxfentxe5fpal.png)  
 
 <hr>
 
@@ -76,13 +76,13 @@ Dots
 
 
 [gt slideshow 1]: https://stanford.box.com/gtss1
-[gt 1]: https://stanford.box.com/gt1
-[gt 2]: https://stanford.box.com/gt2
-[gt 3]: https://stanford.box.com/gt3
-[gt 4]: https://stanford.box.com/gt4
-[gt 5]: https://stanford.box.com/gt5
-[gt 6]: https://stanford.box.com/gt6
-[gt 7]: https://stanford.box.com/gt7
-[gt 8]: https://stanford.box.com/gt8
+[gt 1]: https://stanford.box.com/shared/static/n0e5e9xg17gv7k78gf5r.jpg
+[gt 2]: https://stanford.box.com/shared/static/e9ox0s0fr7fqkrw7uxsh.png
+[gt 3]: https://stanford.box.com/shared/static/sqp1cx4z6mk871b4iola.png
+[gt 4]: https://stanford.box.com/shared/static/imttpoqmx3d75jwlxj9f.png
+[gt 5]: https://stanford.box.com/shared/static/nwvyb6flnpy60aql3m7k.png
+[gt 6]: https://stanford.box.com/shared/static/o7kmosl09syb8jvztbiq.png
+[gt 7]: https://stanford.box.com/shared/static/97h9twz28y00d9task3z.png
+[gt 8]: https://stanford.box.com/shared/static/qhttmu9cxfentxe5fpal.png
 
 
