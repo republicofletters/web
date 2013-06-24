@@ -75,7 +75,7 @@ Irène Passeron (lead of Group D'Alembert, CNRS France, for more informations vi
 
 The Letter from D'Alembert to la marquise Du Deffand, 22th of December 1752 (Localisation of the manuscript: Stanford Libraries, Special Collections Misc. 169) could be a good sample to test if this kind of charting a letter could be useful:
 
-[D'Alembert 2]
+![](https://stanford.box.com/shared/static/nnb5h47heljsaboehfwh.png)
 
 [Letter from D'Alembert to la marquise Du Deffand, 22 décembre 1752], (Mss Misc 169) used with permission, Department of Special Collections and University Archives, Stanford University Libraries, California, USA. Photographie prise par Marie-Laure Massot.
 
@@ -85,11 +85,11 @@ The Letter from D'Alembert to la marquise Du Deffand, 22th of December 1752 (Loc
 Destinations of the letters sent by D'Alembert and sources of the letters received by D'Alembert (1741-1756): 
 D'Alembert's network is mostly a French one with a European extension (Germany and Russia):
 
-[D'Alembert 3]
+![](https://stanford.box.com/shared/static/qho5edxh7fb7yeuseuxa.png)
 
 Letters sent by D'Alembert to his three main correspondents: Voltaire (dark blue), Lagrange (cyan), and Frederique II (light blue).  D'Alembert's three main correspondents are an intellectual, a ruler, and a scientist:
 
-[D'Alembert 4]
+![](https://stanford.box.com/shared/static/7jbizj5vykjgxfbnbpu5.png)
 
 The above correspondence map can be broken up to examine D'Alembert's correspondence with each person individually:
 
@@ -97,7 +97,7 @@ The above correspondence map can be broken up to examine D'Alembert's correspond
 
 Letters sent and received by D'Alembert per year, month and colored by locations (1741-1756): this is a good way to see some pattern in the correspondence. For example, by comparing this calendar to D'Alembert's and Voltaire's timelines, we can figure out their travels. From 1750 to 1753 Voltaire was invited by Frederique II in Gemany, so D'Alembert's correspondence was more based on Germany during this period of time. Then, D'Alembert was the host of Frederique II in 1755 in Wesel and went to visit Voltaire in Geneva in 1756:
 
-[D'Alembert 5]
+![](https://stanford.box.com/shared/static/6ghu8nf07m0ppbyita06.png)
 
 **D'Alembert's correspondence network : a digital journey into D'Alembert's correspondence using the MRofL tools**
 
