@@ -33,9 +33,15 @@ In 2012-13 Findlen and Smeall are collaborating with Nicole Coleman to develop t
   </ol>
   <!-- Carousel items -->
   <div class="carousel-inner">
-    <div class="active item">…</div>
-    <div class="item">…</div>
-    <div class="item">…</div>
+    <div class="active item">
+      <img src ="https://stanford.box.com/shared/static/wuj2sfup0zz6qea50zp7.jpg" alt>
+    </div>
+    <div class="item">
+      <img src ="https://stanford.box.com/shared/static/fm1wkqcdujiwruemn7ge.jpg" alt>
+    </div>
+    <div class="item">
+      <img src ="https://stanford.box.com/shared/static/ukaj05c47kcob94th9v9.jpg" alt>
+    </div>
   </div>
   <!-- Carousel nav -->
   <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
