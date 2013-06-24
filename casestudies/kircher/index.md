@@ -4,10 +4,10 @@ layout: page
 title: A Jesuit's Letters: Mapping Asthanius Kircher's Correspondence
 ---  
 
-[Kircher 1]
-[Kircher 1a]
-[Kircher 2]
-[Kircher 4]
+![](https://stanford.box.com/shared/static/pj54qk895yd8jnkny8si.jpg)
+![](https://stanford.box.com/shared/static/6ra80qye8c8lsa4416fd.jpg)
+![](https://stanford.box.com/shared/static/j30vl0rwxm73efqh7ezg.jpg)
+![](https://stanford.box.com/shared/static/q6409mrdoed0rc4qv7ru.jpg)
 
 ###Research Team
 Paula Findlen  
@@ -32,10 +32,10 @@ Fineo
 Shuffle  
 Tableau  
 
-[kircher 1]: https://stanford.box.com/kircher1
-[kircher 1a]: https://stanford.box.com/kircher1a
-[kircher 2]: https://stanford.box.com/kircher2
-[kircher 4]: https://stanford.box.com/kircher4 
+[kircher 1]: https://stanford.box.com/shared/static/pj54qk895yd8jnkny8si.jpg
+[kircher 1a]: https://stanford.box.com/shared/static/6ra80qye8c8lsa4416fd.jpg
+[kircher 2]: https://stanford.box.com/shared/static/j30vl0rwxm73efqh7ezg.jpg
+[kircher 4]: https://stanford.box.com/shared/static/q6409mrdoed0rc4qv7ru.jpg
 
 
 
