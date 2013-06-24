@@ -40,7 +40,8 @@ Exploring the metadata for D'Alembert's correspondence is a great way to travel 
 We are exploring everything from D'Alembert's correspondents, to the shape of his network through the journeys of his letters, to the letters themselves.  We dive deeper and deeper into his personal life and his intellectual, scientific and social interests in order to draw a better picture of his character, his network and his place in the Republic of Letters. We can also do some comparisons with Voltaire and Franklin networks to figure out their extents and their cosmopolitanism.
 
 *Letters sent and received by D'Alembert from 1741 to 1783*
-[D'Alembert 1]
+![](https://stanford.box.com/shared/static/xdzpiqchxb5rcfbot8jt.png)
+
 
 **Mapping D'Alembert: measuring D'Alembert's correspondence (extant). Quantitative overview:**
 
