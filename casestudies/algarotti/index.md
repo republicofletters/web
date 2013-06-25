@@ -4,8 +4,10 @@ group: casestudies
 
 title: Francesco Algarotti's Reverse Grand Tour: Travels, Publications, and Letters
 ---  
-<link href="http://www.w3resource.com/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet">  
-<img src="https://stanford.box.com/shared/static/wuj2sfup0zz6qea50zp7.jpg" />
+ 
+
+
+
 
 ###Research Team
 
@@ -22,36 +24,6 @@ In 2010-11 Paula Findlen began to develop the databases of Algarotti’s travels
 
 In 2012-13 Findlen and Smeall are collaborating with Nicole Coleman to develop three interrelated maps of Algarotti’s travels, publications, and letters.  This material will be made publicly available and be incorporated into Findlen’s and Smeall’s forthcoming publications on Algarotti.
 
-[algarotti slideshow]:https://stanford.box.com/files/0/f/582163804/Algarotti_Slideshow
+[algarotti_01]:https://stanford.box.com/shared/static/wuj2sfup0zz6qea50zp7.jpg
 
-<div id="myCarousel" class="carousel slide">
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-  </ol>
-  <!-- Carousel items -->
-  <div class="carousel-inner">
-    <div class="active item">
-      <img src ="https://stanford.box.com/shared/static/wuj2sfup0zz6qea50zp7.jpg" alt>
-    </div>
-    <div class="item">
-      <img src ="https://stanford.box.com/shared/static/fm1wkqcdujiwruemn7ge.jpg" alt>
-    </div>
-    <div class="item">
-      <img src ="https://stanford.box.com/shared/static/ukaj05c47kcob94th9v9.jpg" alt>
-    </div>
-  </div>
-  <!-- Carousel nav -->
-  <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-  <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-</div>
 
-<ul class="pager">  
-  <li>  
-    <a href="#">Previous</a>  
-  </li>  
-  <li>  
-    <a href="#">Next</a>  
-  </li>  
-</ul>  
