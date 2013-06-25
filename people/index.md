@@ -30,7 +30,7 @@ Academic Technology Specialist, Stanford Humanities Center; Co-Investigator, Map
 <span id="coleman"></span>
 
 
-
+{% gist 4923bc13f9a327c43c6b.txt %}
 
 
 
