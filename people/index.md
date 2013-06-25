@@ -29,7 +29,7 @@ Professor Findlen received her Ph.D. from UC Berkeley and taught at the Universi
 Academic Technology Specialist, Stanford Humanities Center; Co-Investigator, Mapping the Republic of Letters
 <span id="coleman"></span>
 
-{gist:4923bc13f9a327c43c6b}
+{% gist:4923bc13f9a327c43c6b %}
 
 
 
