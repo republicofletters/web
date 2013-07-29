@@ -24,7 +24,7 @@ Slideshow1:
 ---
 
 
-[Voltaire Slideshow 1]
+{% include slides.html %}
 
 ###Research Team
 [Dan Edelstein](/people/#edelstein) (Lead)  
