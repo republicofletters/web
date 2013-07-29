@@ -17,7 +17,7 @@ slideshow2:
 
   
 
-**put slideshow here: images from /assets/images/dalembert/slideshow1/
+{% include dalembertslides1.html %}
 
 ###Research Team
 [Irène Passeron](/people/#passeron) (Lead)  
@@ -100,7 +100,7 @@ Letters sent by D'Alembert to his three main correspondents: Voltaire (dark blue
 
 The above correspondence map can be broken up to examine D'Alembert's correspondence with each person individually:
 
-[D'Alembert small slideshow]
+{% include dalembertslides1.html %}
 
 Letters sent and received by D'Alembert per year, month and colored by locations (1741-1756): this is a good way to see some pattern in the correspondence. For example, by comparing this calendar to D'Alembert's and Voltaire's timelines, we can figure out their travels. From 1750 to 1753 Voltaire was invited by Frederique II in Gemany, so D'Alembert's correspondence was more based on Germany during this period of time. Then, D'Alembert was the host of Frederique II in 1755 in Wesel and went to visit Voltaire in Geneva in 1756:
 
