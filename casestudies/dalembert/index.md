@@ -2,6 +2,17 @@
 layout:page  
 group:casestudies  
 title: D'Alembert's Correspondence
+
+slideshow1:
+  - <img src="https://stanford.box.com/shared/static/horlnlbbkrm77e17vb6i.jpg" />
+  - <img src="https://stanford.box.com/shared/static/1c8hwv2m1elonvdjm6gw.jpg" />
+  - <img src="https://stanford.box.com/shared/static/o04i6h1kfc78wdtmgwyf.jpg" />
+  - <img src="https://stanford.box.com/shared/static/ylne3udvd05qlmp9n321.jpg" />
+
+slideshow2:
+  - <img src="https://stanford.box.com/shared/static/cdz41t9wmgakczwosuz3.png" />
+  - <img src="https://stanford.box.com/shared/static/g2hgsm0k23kyae60wszq.png" />
+  - <img src="https://stanford.box.com/shared/static/nve71bwtab198rm2cn61.png" />
 ---
 
   
