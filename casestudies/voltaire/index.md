@@ -2,6 +2,25 @@
 layout: page  
 group: casestudies  
 title:Voltaire and the Enlightenment
+
+Slideshow1:
+  - <img src="https://stanford.box.com/shared/static/oeab16px2bfd9m3yajfx.png" />
+  - <img src="https://stanford.box.com/shared/static/9cg6ed9ayhd4vdpt67i7.jpg" />
+  - <img src="https://stanford.box.com/shared/static/cyvkoc7yp8e1ne0kp2qu.jpg" />
+  - <img src="https://stanford.box.com/shared/static/cyvkoc7yp8e1ne0kp2qu.jpg" />
+  - <img src="https://stanford.box.com/shared/static/mlcqmxqb0r41xlxkszyh.jpg" />
+  - <img src="https://stanford.box.com/shared/static/r5ojecw0umaqy33mffcj.jpg" />
+  - <img src="https://stanford.box.com/shared/static/xzgk0p39rzqglolj65e1.jpg" />
+  - <img src="https://stanford.box.com/shared/static/z0t4nn1863z54wvdwryc.jpg" />
+  - <img src="https://stanford.box.com/shared/static/7t7fihqj7vhzx402fny8.jpg" />
+  - <img src="https://stanford.box.com/shared/static/ony2vk75ooqj647j2h62.jpg" />
+  - <img src="https://stanford.box.com/shared/static/qyuwnghcfo9ilsisn9jl.jpg" />
+  - <img src="https://stanford.box.com/shared/static/rzq1zzxax7knx4k14v8a.jpg" />
+  - <img src="https://stanford.box.com/shared/static/bajip4ka970c90q8feap.jpg" />
+  - <img src="https://stanford.box.com/shared/static/jesihdvlgwy97omiumlp.jpg" />
+  - <img src="https://stanford.box.com/shared/static/9uo2js9k4y1inm1lvwk3.jpg" />
+  - <img src="https://stanford.box.com/shared/static/vvxb5vkcbr1mk0p9d09r.jpg" />
+  - <img src="https://stanford.box.com/shared/static/byk3dgf10u9kremax8ef.jpg" />
 ---
 
 
