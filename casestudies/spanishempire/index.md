@@ -1,3 +1,30 @@
+---  
+layout:page  
+group:casestudies  
+title: Spanish Empire
+
+slideshow:
+  - <img src="https://stanford.box.com/shared/static/1hfb7fdjr99xu3v470oh.png" />
+  - <img src="https://stanford.box.com/shared/static/sr09l2yvv9tfgtmwjvmk.jpg" />
+  - <img src="https://stanford.box.com/shared/static/ujmyt4ii7xmvqn823op8.jpg" />
+  - <img src="https://stanford.box.com/shared/static/5ip34p7aqrl4hfm4ra89.jpg" />
+  - <img src="https://stanford.box.com/shared/static/2slqjjjza3p6txcj8ksr.jpg" />
+  - <img src="https://stanford.box.com/shared/static/7lknitbk20z9rgtuojow.jpg" />
+  - <img src="https://stanford.box.com/shared/static/iwz039ahwlfr7zbfa8gy.jpg" />
+  - <img src="https://stanford.box.com/shared/static/xnkm2pz25kkb525zugox.jpg" />
+  - <img src="https://stanford.box.com/shared/static/kxf02y3dximuyhsl0g9l.jpg" />
+  - <img src="https://stanford.box.com/shared/static/k6j5f8ell3c9jw0jdkyx.jpg" />
+  - <img src="https://stanford.box.com/shared/static/25n7oc1lcdrnc45zn7xn.jpg" />
+  - <img src="https://stanford.box.com/shared/static/acobj1jp7k3g5zdxh51r.jpg" />
+  - <img src="https://stanford.box.com/shared/static/9wqd29mvc4joa43u4eul.jpg" />
+  - <img src="https://stanford.box.com/shared/static/tzr5y34utum0u2idz83v.jpg" />
+  - <img src="https://stanford.box.com/shared/static/8gb130egopvpnnc0k16j.jpg" />
+  - <img src="https://stanford.box.com/shared/static/neh6ng6yho4xv9x8deq2.jpg" />
+  - <img src="https://stanford.box.com/shared/static/forl36706ycy0qyu6gfr.jpg" />
+  - <img src="https://stanford.box.com/shared/static/bewifv06euihg4l2m5ng.jpg" />
+---
+
+
 An Intellectual Map of Science in the Spanish Empire, 1600-1810
 ===============================================================
 
