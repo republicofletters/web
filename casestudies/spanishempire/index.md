@@ -47,7 +47,7 @@ Unlike other Republic of Letters projects which have focused on correspondence, 
 
 Early in the process of the creation of the database some of our initial results were presented at the Mapping the Republic of Letters conference at the Fondazione Giorgio Cini in Venice, Italy.  The presentation below has the images from that presentation along with some of the early visualizations of networks from the Spanish Scientist database.  We will also include some of the more recent visualizations that have been created for our project.
 
-[Spanish Empire Slideshow]
+{% include spanishempireslides.html %}
 
 [spanish empire slideshow]: https://stanford.box.com/spanishempiress
 
