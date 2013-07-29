@@ -40,7 +40,7 @@ slideshow4:
 ---
 
 
-{% include slides1.html %}
+{% include voltaireslides1.html %}
 
 ###Research Team
 [Dan Edelstein](/people/#edelstein) (Lead)  
@@ -67,12 +67,12 @@ While there are nearly 19,000 letters in Voltaire’s correspondence, we only ha
 ####A comparison between the correspondence networks of Locke (blue) and Voltaire (orange) 
 One of our first hints that Enlightenment correspondence networks may not have been as cosmopolitan as the authors liked to claim. At the same time, despite being heavily concentrated in the Anglo-Dutch area, Locke’s network stretched much farther afield, to the American colonies and to India.
 
-{% include slides2.html %}
+{% include voltaireslides2.html %}
 
 ####Range: a structural variable of correspondence networks 
 These different ranges can be thought of analogously to railway networks, which tend to be divided into regional, intercity, and international divisions, each of which serves a different purpose and clientele. Of course, none of these dimensions are mutually exclusive. A correspondence network can be both global and regional, both national and cosmopolitan. But as it turns out, there are far more national networks than cosmopolitan or global ones.
 
-{% include slides3.html %}
+{% include voltaireslides3.html %}
 
 ####Configuration: another structural variable of correspondence networks  
 We noticed that most networks have one of three configurations: axial, arterial, or radial.
@@ -90,7 +90,7 @@ Although we do not have complete location data for all Voltaire’s letters, we 
 ####Voltaire’s French Correspondents   
 Across the course of his long life, Voltaire continuously kept in touch with his old friends in Paris – many of whom had risen to important positions of power.
 
-{% include slides4.html %}
+{% include voltaireslides4.html %}
 
 ####Voltaire’s British Correspondents   
 An interesting feature of Voltaire’s British letters is that there are only two men with whom the philosophe had a (relatively) intensive exchange. Sir Everard Fawkener – a friend from the days before Voltaire’s exile to England and to whom Zaïre is dedicated – exchanged as many as 23 letters with Voltaire over the course of fifteen years, while the correspondence with the George Keate left 38 letters exchanged in the course of twenty-one years. Those two numbers together account for one-third of all of Voltaire’s British letters. By contrast, Voltaire’s epistolary relationship with the English contemporary great minds is quite negligible: he only wrote a few letters to Jonathan Swift (three) and Alexander Pope (two), all of them during his exile in England. Following his return to France, Voltaire does not seem to have corresponded with any English luminaries until 1763.
