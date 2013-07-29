@@ -24,7 +24,7 @@ Slideshow1:
 ---
 
 
-{% include slides.html %}
+{% include slides1.html %}
 
 ###Research Team
 [Dan Edelstein](/people/#edelstein) (Lead)  
