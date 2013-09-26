@@ -6,7 +6,11 @@ pkg/
 *~
 _site/
 .bundle/
+<<<<<<< HEAD
+*.DS_Store
+=======
 .DS_Store
+>>>>>>> master
 bbin/
 gh-pages/
 site/_site/
