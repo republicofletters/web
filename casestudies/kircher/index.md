@@ -4,10 +4,17 @@ layout: page
 title: A Jesuit's Letters: Mapping Asthanius Kircher's Correspondence
 ---  
 
+<<<<<<< HEAD
 ![](https://stanford.box.com/shared/static/pj54qk895yd8jnkny8si.jpg)
 ![](https://stanford.box.com/shared/static/6ra80qye8c8lsa4416fd.jpg)
 ![](https://stanford.box.com/shared/static/j30vl0rwxm73efqh7ezg.jpg)
 ![](https://stanford.box.com/shared/static/q6409mrdoed0rc4qv7ru.jpg)
+=======
+<img src="https://stanford.box.com/shared/static/pj54qk895yd8jnkny8si.jpg" />
+<img src="https://stanford.box.com/shared/static/6ra80qye8c8lsa4416fd.jpg" />
+<img src="https://stanford.box.com/shared/static/j30vl0rwxm73efqh7ezg.jpg" />
+<img src="https://stanford.box.com/shared/static/q6409mrdoed0rc4qv7ru.jpg" />
+>>>>>>> origin/edit-static-pages
 
 ###Research Team
 Paula Findlen  
@@ -32,10 +39,14 @@ Fineo
 Shuffle  
 Tableau  
 
+<<<<<<< HEAD
 [kircher 1]: https://stanford.box.com/shared/static/pj54qk895yd8jnkny8si.jpg
 [kircher 1a]: https://stanford.box.com/shared/static/6ra80qye8c8lsa4416fd.jpg
 [kircher 2]: https://stanford.box.com/shared/static/j30vl0rwxm73efqh7ezg.jpg
 [kircher 4]: https://stanford.box.com/shared/static/q6409mrdoed0rc4qv7ru.jpg
+=======
+
+>>>>>>> origin/edit-static-pages
 
 
 

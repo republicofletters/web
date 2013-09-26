@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: page  
 group: casestudies  
 title: D'Alembert's Correspondence  
@@ -12,6 +13,27 @@ title: D'Alembert's Correspondence
   <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_03.jpg" alt=""></li>
   <li><img src="{{ BASE_PATH }}/assets/images/dalembert/slideshow1/slideshow1_04.jpg" alt=""></li>
 </ul>
+=======
+layout:page  
+group:casestudies  
+title: D'Alembert's Correspondence
+
+slideshow1:
+  - <img src="https://stanford.box.com/shared/static/horlnlbbkrm77e17vb6i.jpg" />
+  - <img src="https://stanford.box.com/shared/static/1c8hwv2m1elonvdjm6gw.jpg" />
+  - <img src="https://stanford.box.com/shared/static/o04i6h1kfc78wdtmgwyf.jpg" />
+  - <img src="https://stanford.box.com/shared/static/ylne3udvd05qlmp9n321.jpg" />
+
+slideshow2:
+  - <img src="https://stanford.box.com/shared/static/cdz41t9wmgakczwosuz3.png" />
+  - <img src="https://stanford.box.com/shared/static/g2hgsm0k23kyae60wszq.png" />
+  - <img src="https://stanford.box.com/shared/static/nve71bwtab198rm2cn61.png" />
+---
+
+  
+
+{% include dalembertslides1.html %}
+>>>>>>> origin/edit-static-pages
 
 ###Research Team
 [Irène Passeron](/people/#passeron) (Lead)  
@@ -40,8 +62,13 @@ Exploring the metadata for D'Alembert's correspondence is a great way to travel 
 We are exploring everything from D'Alembert's correspondents, to the shape of his network through the journeys of his letters, to the letters themselves.  We dive deeper and deeper into his personal life and his intellectual, scientific and social interests in order to draw a better picture of his character, his network and his place in the Republic of Letters. We can also do some comparisons with Voltaire and Franklin networks to figure out their extents and their cosmopolitanism.
 
 *Letters sent and received by D'Alembert from 1741 to 1783*
+<<<<<<< HEAD
 ![](https://stanford.box.com/shared/static/xdzpiqchxb5rcfbot8jt.png)
 
+=======
+
+<img src="https://stanford.box.com/shared/static/xdzpiqchxb5rcfbot8jt.png" />
+>>>>>>> origin/edit-static-pages
 
 **Mapping D'Alembert: measuring D'Alembert's correspondence (extant). Quantitative overview:**
 
@@ -75,7 +102,11 @@ Irène Passeron (lead of Group D'Alembert, CNRS France, for more informations vi
 
 The Letter from D'Alembert to la marquise Du Deffand, 22th of December 1752 (Localisation of the manuscript: Stanford Libraries, Special Collections Misc. 169) could be a good sample to test if this kind of charting a letter could be useful:
 
+<<<<<<< HEAD
 ![](https://stanford.box.com/shared/static/nnb5h47heljsaboehfwh.png)
+=======
+<img src= "https://stanford.box.com/shared/static/nnb5h47heljsaboehfwh.png" />
+>>>>>>> origin/edit-static-pages
 
 [Letter from D'Alembert to la marquise Du Deffand, 22 décembre 1752], (Mss Misc 169) used with permission, Department of Special Collections and University Archives, Stanford University Libraries, California, USA. Photographie prise par Marie-Laure Massot.
 
@@ -85,19 +116,31 @@ The Letter from D'Alembert to la marquise Du Deffand, 22th of December 1752 (Loc
 Destinations of the letters sent by D'Alembert and sources of the letters received by D'Alembert (1741-1756): 
 D'Alembert's network is mostly a French one with a European extension (Germany and Russia):
 
+<<<<<<< HEAD
 ![](https://stanford.box.com/shared/static/qho5edxh7fb7yeuseuxa.png)
 
 Letters sent by D'Alembert to his three main correspondents: Voltaire (dark blue), Lagrange (cyan), and Frederique II (light blue).  D'Alembert's three main correspondents are an intellectual, a ruler, and a scientist:
 
 ![](https://stanford.box.com/shared/static/7jbizj5vykjgxfbnbpu5.png)
+=======
+<img src="https://stanford.box.com/shared/static/qho5edxh7fb7yeuseuxa.png" />
+
+Letters sent by D'Alembert to his three main correspondents: Voltaire (dark blue), Lagrange (cyan), and Frederique II (light blue).  D'Alembert's three main correspondents are an intellectual, a ruler, and a scientist:
+
+<img src="https://stanford.box.com/shared/static/7jbizj5vykjgxfbnbpu5.png" />
+>>>>>>> origin/edit-static-pages
 
 The above correspondence map can be broken up to examine D'Alembert's correspondence with each person individually:
 
-[D'Alembert small slideshow]
+{% include dalembertslides2.html %}
 
 Letters sent and received by D'Alembert per year, month and colored by locations (1741-1756): this is a good way to see some pattern in the correspondence. For example, by comparing this calendar to D'Alembert's and Voltaire's timelines, we can figure out their travels. From 1750 to 1753 Voltaire was invited by Frederique II in Gemany, so D'Alembert's correspondence was more based on Germany during this period of time. Then, D'Alembert was the host of Frederique II in 1755 in Wesel and went to visit Voltaire in Geneva in 1756:
 
+<<<<<<< HEAD
 ![](https://stanford.box.com/shared/static/6ghu8nf07m0ppbyita06.png)
+=======
+<img src="https://stanford.box.com/shared/static/6ghu8nf07m0ppbyita06.png" />
+>>>>>>> origin/edit-static-pages
 
 **D'Alembert's correspondence network : a digital journey into D'Alembert's correspondence using the MRofL tools**
 
@@ -131,12 +174,16 @@ Excel
 Tableau  
 [Ink](http://ink.designhumanities.org/dalembert)  
 
-[d'alembert slideshow]: https://stanford.box.com/dalembertss1
+
 [a digital journey into d'alembert's correspondence]: https://rofl-net.stanford.edu/groups/dalembertpublic/wiki/0991c/Report.html
+<<<<<<< HEAD
 [d'alembert 1]: https://stanford.box.com/shared/static/xdzpiqchxb5rcfbot8jt.png
 [d'alembert 2]: https://stanford.box.com/shared/static/nnb5h47heljsaboehfwh.png
 [d'alembert 3]: https://stanford.box.com/shared/static/qho5edxh7fb7yeuseuxa.png
 [d'alembert 4]: https://stanford.box.com/shared/static/7jbizj5vykjgxfbnbpu5.png
 [d'alembert small slideshow]: https://stanford.box.com/dalembertss2
 [d'alembert 5]: https://stanford.box.com/shared/static/6ghu8nf07m0ppbyita06.png
+=======
+
+>>>>>>> origin/edit-static-pages
 
