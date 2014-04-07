@@ -1,6 +1,6 @@
 # Mapping the Republic of Letters
 
-Site to be published on Stanford servers at [republicofletters.stanford.edu](republicofletters.stanford.edu)
+Site to be published on Stanford servers at [republicofletters.stanford.edu](http://republicofletters.stanford.edu/)
 
 Navigation: 
 
