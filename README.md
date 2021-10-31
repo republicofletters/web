@@ -1,14 +1,9 @@
-# Mapping the Republic of Letters
+# Mapping Republic of Letters
 
-Site to be published on Stanford servers at republicofletter.stanford.edu
+## Project Structure
 
-Navigation: 
+There are currently 2 folders
 
-_About  
-_Research  
-_Teaching  
-_People  
-_Partners  
-_News 
+`oldCode2013`: V1 of the website from 2013
 
-
+`v1.2021`: Updated content as of fall 2021.
