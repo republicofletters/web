@@ -1,0 +1,3 @@
+[submodule "Kircher"]
+	path = Kircher
+	url = git@github.com:fparviz/Kircher.git
