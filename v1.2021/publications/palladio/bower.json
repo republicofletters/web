@@ -1,0 +1,33 @@
+{
+  "name": "voltaire",
+  "homepage": "https://github.com/humanitiesplusdesign/republicofletters",
+  "authors": [
+    "None"
+  ],
+  "description": "",
+  "main": "",
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "palladio": "^1.2.3",
+    "palladio-timeline-component": "1.0.7",
+    "palladio-facet-component": "^1.1.1",
+    "palladio-timespan-component": "^1.1.0",
+    "palladio-graph-component": "^1.0.1",
+    "palladio-map-component": "^1.2.0",
+    "palladio-table-component": "^1.1.2",
+    "palladio-cards-component": "^1.0.2",
+    "palladio-metaview-component": "^1.0.2",
+    "palladio-metavis-component": "^1.0.5"
+  },
+  "resolutions": {
+    "palladio": "1.2.3"
+  }
+}
